@@ -1,0 +1,14 @@
+.judul_materi{
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.row .deskripsi_materi{
+    text-align: justify;
+    margin-top: 40px;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    color: black;
+    margin-left: 40px;
+}
